@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "\"hello world!\" output",
+      "setup": "",
+      "run": "gcc hw.c && ./a.out",
+      "input": "",
+      "output": "hello world!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
